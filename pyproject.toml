@@ -1,0 +1,18 @@
+[project]
+name = "ai-engineering"
+version = "0.1.0"
+description = "Simple project to learn about LLM and AI engineering"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "bs4>=0.0.2",
+    "langchain[google-genai]>=1.3.1",
+    "langchain-openai>=1.2.2",
+    "langchain-text-splitters>=1.1.2",
+    "langgraph>=1.2.1",
+    "pypdf>=6.12.1",
+    "python-dotenv>=1.2.2",
+    "langchain-google-genai>=4.2.3",
+    "aiohttp>=3.13.5",
+    "numpy>=2.4.6",
+]
