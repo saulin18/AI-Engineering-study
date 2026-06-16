@@ -15,4 +15,8 @@ dependencies = [
     "langchain-google-genai>=4.2.3",
     "aiohttp>=3.13.5",
     "numpy>=2.4.6",
+    "assemblyai>=0.64.4",
+    "fastapi>=0.136.3",
+    "websockets>=16.0",
+    "uvicorn>=0.48.0",
 ]
